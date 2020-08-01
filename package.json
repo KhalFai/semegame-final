@@ -1,0 +1,17 @@
+{
+  "name": "semegame-final",
+  "version": "1.0.0",
+  "description": "The final version of project Freeflight a.k.a. semegame",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
